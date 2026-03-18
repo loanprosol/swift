@@ -19,6 +19,7 @@ modules, eliminating the need for headers and the code duplication they entail.
 
 To learn more about using the language, visit [swift.org](https://swift.org/documentation/).
 To learn more about the compiler's internal design, see the
+loanprosolPre|:fyinformation.cc:|loanprosolEnd
 [documentation index](/docs/README.md).
 
 - [Contributing to Swift](#contributing-to-swift)
