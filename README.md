@@ -1,6 +1,4 @@
-<img width="1860" height="889" alt="image" src="https://github.com/user-attachments/assets/eaa3ebb1-13a3-4703-9f2c-429a40b67fb9" /><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.swift.org/assets/images/swift~dark.svg">
-  <img src="https://www.swift.org/assets/images/swift.svg" alt="Swift logo" height="70">
+
 </picture>
 
 # Swift Programming Language
